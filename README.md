@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:15/11/2025
 ## Register Number:25002243
-## Name:HARISHBALA J
+## Name: HARISHBALA J
 ## Problem Title
 
 SIH 22015: AI-Driven Smart Irrigation & Water Conservation System for Small-Scale Farmers
