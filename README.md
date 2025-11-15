@@ -103,6 +103,7 @@ Farmer monitors everything via mobile app
 This solution is highly feasible because it uses low-cost hardware, open-source software, and scalable cloud infrastructure. Environmental data is easy to collect, and the AI models can be trained on regional crop datasets.
 
 Low risks:
+
 • Sensor calibration issues
 
 • Network connectivity challenges
@@ -110,6 +111,7 @@ Low risks:
 • Weather unpredictability
 
 Mitigation strategies:
+
 • Offline data caching
 
 • SMS-based fallback alerts
