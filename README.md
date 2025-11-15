@@ -108,7 +108,11 @@ Mitigation strategies:
 
 
  • Research papers on AI-based irrigation optimization
+ 
  • ISRO weather datasets
+ 
  • ICAR crop water requirement guidelines
+ 
  • Open-source IoT sensor documentation
+ 
  • Government agricultural water policies
