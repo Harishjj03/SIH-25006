@@ -82,7 +82,6 @@ Farmer monitors everything via mobile app
 
 ## Feasibility and Viability
 
-(Removed instructional lines)
 
 This solution is highly feasible because it uses low-cost hardware, open-source software, and scalable cloud infrastructure. Environmental data is easy to collect, and the AI models can be trained on regional crop datasets.
 
